@@ -1,4 +1,4 @@
-let n = prompt('n');
+let n = prompt('fibonacci Calculator');
 function fibonacciCalc(n) {
   var a = 1,
     b = 1;
