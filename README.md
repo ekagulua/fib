@@ -1,1 +1,1 @@
-https://ekagulua.github.io/fib/
+https://ekagulua.github.io/fibonacci/
